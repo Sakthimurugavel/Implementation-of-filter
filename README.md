@@ -142,10 +142,11 @@ iv) Using Median Filter
 
 </br>
 ### 2. Sharpening Filters
+
 </br>
 i) Using Laplacian Kernal
 <br>
-![dip out 5](https://github.com/Sakthimurugavel/Implementation-of-filter/assets/118707246/be03b6d5-2444-490e-9fe9-3a77b056657a)
+<img src = "https://github.com/Adhithyaram29D/Implementation-of-filter/assets/119393540/e7cee428-3ac1-4d42-873d-60b6cae046a8" width ="300">
 </br>
 ii) Using Laplacian Operator
 <br>
